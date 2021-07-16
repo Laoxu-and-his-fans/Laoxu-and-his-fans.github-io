@@ -1,54 +1,48 @@
-# web-final-homework ynu group 7
-This is a ynu web-final-homework of group 7.
+# web-final-homework ynu group 7(front-end)
+This is the ynu web-final-homework of group 7.(front-end)
 ## Table of Contents
 
-- [Security](#security)
 - [Background](#background)
 - [Language](#Language)
 - [History](#history)
 - [Install](#install)
 - [Usage](#usage)
-- [API](#api)
+- [Profile](#profile)
 - [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
 
-## Security
-
-### Any optional sections
 
 ## Background
 
-### Any optional sections
-
+This project is the finalhomework of YNU web class(front-end). We used the Jquery to beautify our static website. 
+You can visit our website with your mobile phone.
+One of our teammate is the member of the YNU E-sports club, therefore, we introduced this club as our theme.
 ## Language
-
+### HTML
+### Javascript
 ## History
-
-## Install
-
+电竞社团 v1.0 2021-7-15
+## Getting Started
 This module depends upon a knowledge of [Markdown]().
-
-```
-```
-
-### Any optional sections
-
+Install Jekyll and plug-ins in one fell swoop. gem install github-pages This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+Clone down your fork git clone https://github.com/yourusername/yourusername.github.io.git
+Serve the site and watch for markup/sass changes jekyll serve
+View your website at http://127.0.0.1:4000/
+Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 ## Usage
-
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
+You can run the code with the following instructions if you are using the windows OS
+## Profile
+Login 
+![avatar](https://ftp.bmp.ovh/imgs/2021/07/000b10db5294471d.png)
+Register
+![avatar](https://ftp.bmp.ovh/imgs/2021/07/7579307a68500a0a.png)
+Posts
+![avatar](https://ftp.bmp.ovh/imgs/2021/07/7129b6545e62ee26.png)
+Upload a new post!
+![avatar](https://ftp.bmp.ovh/imgs/2021/07/00bd0c54e013ef0a.png)
+Edit your post!
+![avatar](https://ftp.bmp.ovh/imgs/2021/07/c3ff7f09ff016d96.png)
 ## Contributing
 
 See [the contributing file](CONTRIBUTING.md)!
@@ -57,12 +51,11 @@ PRs accepted.
 
 Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
-### Any optional sections
 ## License
-We’re using the … license because we believe in …
+We’re using the MIT license because we believe in open source work
 
 ## Credits
-
-* [Xkingham](...)
+[Jekyll](https://github.com/jekyll/jekyll)Thanks to its creators, contributors and maintainers.
+* [Xkingham](https://github.com/XKingham)
 * [Syouko](https://github.com/1615477241)
-* [Billj](...)
+* [Billj](https://github.com/Bill-J01)
