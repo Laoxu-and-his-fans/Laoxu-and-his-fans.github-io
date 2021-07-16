@@ -15,7 +15,9 @@ This is the ynu web-final-homework of group 7.(front-end)
 ## Background
 
 This project is the finalhomework of YNU web class(front-end). We used the Jquery to beautify our static website. 
+
 You can visit our website with your mobile phone.
+
 One of our teammate is the member of the YNU E-sports club, therefore, we introduced this club as our theme.
 ## Language
 ### HTML
