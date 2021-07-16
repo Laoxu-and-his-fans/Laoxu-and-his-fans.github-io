@@ -5,7 +5,7 @@ This is the ynu web-final-homework of group 7.(front-end)
 - [Background](#background)
 - [Language](#Language)
 - [History](#history)
-- [Getting Started](#Getting Started)
+- [Start](#Start)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,7 +24,7 @@ One of our teammate is the member of the YNU E-sports club, therefore, we introd
 ### Javascript
 ## History
 电竞社团 v1.0 2021-7-15
-## Getting Started
+## Start
 This module depends upon a knowledge of [Markdown]().
 
 Install Jekyll and plug-ins in one fell swoop. gem install github-pages This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
