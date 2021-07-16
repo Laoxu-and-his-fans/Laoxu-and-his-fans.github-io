@@ -24,10 +24,15 @@ One of our teammate is the member of the YNU E-sports club, therefore, we introd
 电竞社团 v1.0 2021-7-15
 ## Getting Started
 This module depends upon a knowledge of [Markdown]().
+
 Install Jekyll and plug-ins in one fell swoop. gem install github-pages This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+
 Clone down your fork git clone https://github.com/yourusername/yourusername.github.io.git
+
 Serve the site and watch for markup/sass changes jekyll serve
+
 View your website at http://127.0.0.1:4000/
+
 Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 ## Usage
 You can run the code with the following instructions if you are using the windows OS
@@ -43,7 +48,7 @@ Small note: If editing the Readme, please conform to the [standard-readme](https
 We’re using the MIT license because we believe in open source work
 
 ## Credits
-* [Jekyll](https://github.com/jekyll/jekyll)Thanks to its creators, contributors and maintainers.
+* [Jekyll](https://github.com/jekyll/jekyll)-Thanks to its creators, contributors and maintainers.
 * [Xkingham](https://github.com/XKingham)
 * [Syouko](https://github.com/1615477241)
 * [Billj](https://github.com/Bill-J01)
