@@ -20,8 +20,8 @@ You can visit our website with your mobile phone.
 
 One of our teammate is the member of the YNU E-sports club, therefore, we introduced this club as our theme.
 ## Language
-### HTML
-### Javascript
+#### HTML
+#### Javascript
 ## History
 电竞社团 v1.0 2021-7-15
 ## Start
