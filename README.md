@@ -5,9 +5,8 @@ This is the ynu web-final-homework of group 7.(front-end)
 - [Background](#background)
 - [Language](#Language)
 - [History](#history)
-- [Install](#install)
+- [Getting Started](#Getting Started)
 - [Usage](#usage)
-- [Profile](#profile)
 - [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
@@ -32,17 +31,6 @@ View your website at http://127.0.0.1:4000/
 Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 ## Usage
 You can run the code with the following instructions if you are using the windows OS
-## Profile
-Login 
-![avatar](https://ftp.bmp.ovh/imgs/2021/07/000b10db5294471d.png)
-Register
-![avatar](https://ftp.bmp.ovh/imgs/2021/07/7579307a68500a0a.png)
-Posts
-![avatar](https://ftp.bmp.ovh/imgs/2021/07/7129b6545e62ee26.png)
-Upload a new post!
-![avatar](https://ftp.bmp.ovh/imgs/2021/07/00bd0c54e013ef0a.png)
-Edit your post!
-![avatar](https://ftp.bmp.ovh/imgs/2021/07/c3ff7f09ff016d96.png)
 ## Contributing
 
 See [the contributing file](CONTRIBUTING.md)!
@@ -55,7 +43,7 @@ Small note: If editing the Readme, please conform to the [standard-readme](https
 We’re using the MIT license because we believe in open source work
 
 ## Credits
-[Jekyll](https://github.com/jekyll/jekyll)Thanks to its creators, contributors and maintainers.
+* [Jekyll](https://github.com/jekyll/jekyll)Thanks to its creators, contributors and maintainers.
 * [Xkingham](https://github.com/XKingham)
 * [Syouko](https://github.com/1615477241)
 * [Billj](https://github.com/Bill-J01)
